@@ -1,0 +1,61 @@
+header {
+			text-align: center;
+		}
+		body {
+			background: honeydew;
+		}
+		h1 {
+			font-size: 60px;
+			color: aquamarine;
+			text-align: center;
+			font-family: arial;
+		}
+		h2 {
+			text-align:	center;
+			font-family: helvetica;
+		}
+		a {
+			color: white;
+		}
+		ul {
+			padding: 10px;
+			background: rgba(0, 0, 0, 0.3);
+			text-align: center;
+			font-family: helvetica;
+
+		}
+		li {
+			display: inline;
+			padding: 0px 10px 0px 10px;
+			color: white
+		}
+		input {
+      border: 0;
+      padding: 15px;
+      font-size: 30px;
+    }
+    input[type="button"] {
+    /*border: 10;*/
+      /*padding: 0;*/
+      height: 55px;
+       width: 55px;
+       background: url('Go-tile-monopoly.gif') no-repeat;
+
+       background-size: 55px 55px;
+    }
+    .imagestyle
+		article {
+			max-width: 500px;
+			padding: 20px;
+			margin: 0 auto;
+		}
+		@media (max-width: 500px) {
+		}
+#welcome_line {color: purple}
+.header_links {color: cadetblue}
+
+
+
+
+
+
